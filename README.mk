@@ -1,2 +1,1 @@
-Edson Romero
-Churrasco
+Gosto de Tocar Guitarra
