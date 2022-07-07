@@ -1,0 +1,20 @@
+{
+  "name": "campinho",
+  "version": "1.0.0",
+  "description": "Projeto Campinho",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdsonRomero/campinho.git"
+  },
+  "author": "Edson de Almeida Romero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdsonRomero/campinho/issues"
+  },
+  "homepage": "https://github.com/EdsonRomero/campinho#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
